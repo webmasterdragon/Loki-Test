@@ -9,9 +9,6 @@ const AppNavigator = createStackNavigator(
   {
     Home: {
       screen: UserListScreen
-      //   navigationOptions: {
-      //     header: null
-      //   }
     },
     User: {
       screen: UserInfoScreen

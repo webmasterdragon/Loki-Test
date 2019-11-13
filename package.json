@@ -19,6 +19,7 @@
     "react-native-reanimated": "^1.4.0",
     "react-native-screens": "^2.0.0-alpha.8",
     "react-native-search-bar": "^3.5.1",
+    "react-native-super-grid": "^3.1.1",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.10.3",
     "react-redux": "^7.1.3",

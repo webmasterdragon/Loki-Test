@@ -93,7 +93,6 @@ export default class UserListScreen extends React.Component {
 
   componentDidMount() {
     this.refs.searchBar.focus();
-    console.log(this.refs.searchBar);
   }
 
   onChangeText = (text) => {
@@ -131,7 +130,6 @@ export default class UserListScreen extends React.Component {
   };
 
   renderUser = ({ item, index }) => {
-    console.log(item, index);
     return (
       <TouchableOpacity onPress={() => this.goUserInfo(item)} key={item.id}>
         <UserRow key={index}>

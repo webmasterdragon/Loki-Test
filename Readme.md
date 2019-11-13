@@ -16,7 +16,8 @@ _Requires `react-native-cli` installed_
 
 1. Clone the project
 2. Install dependencies with `yarn install`
-3. Run with `react-native run-ios`
+3. Pod install `cd ios && pod install && cd ..`
+4. Run with `react-native run-ios`
 
 ### Run tests
 

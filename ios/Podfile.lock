@@ -225,6 +225,8 @@ PODS:
     - React
   - RNScreens (2.0.0-alpha.8):
     - React
+  - RNSearchBar (3.5.1):
+    - React
   - Yoga (1.14.0)
 
 DEPENDENCIES:
@@ -259,6 +261,7 @@ DEPENDENCIES:
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
+  - RNSearchBar (from `../node_modules/react-native-search-bar`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -322,6 +325,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-reanimated"
   RNScreens:
     :path: "../node_modules/react-native-screens"
+  RNSearchBar:
+    :path: "../node_modules/react-native-search-bar"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
@@ -355,8 +360,9 @@ SPEC CHECKSUMS:
   RNGestureHandler: a4ddde1ffc6e590c8127b8b7eabfdade45475c74
   RNReanimated: b2ab0b693dddd2339bd2f300e770f6302d2e960c
   RNScreens: bfa9143ca291bcf3804c932f77b9617ff324704f
+  RNSearchBar: 9860431356b7d12a8449d2fddb2b5f3c78d1e99f
   Yoga: ba3d99dbee6c15ea6bbe3783d1f0cb1ffb79af0f
 
-PODFILE CHECKSUM: 664b1bdc0353d70b083f48df1ac81d9a00baf8f2
+PODFILE CHECKSUM: 9c7d6d4adff625c99b9e82ae43056982a6100b50
 
 COCOAPODS: 1.7.5
